@@ -2,7 +2,13 @@
 
 A full-stack dynamic web application built using **Java, Servlets, and JSP** that allows users to create, store, edit, and export professional resumes in multiple formats (PDF and XML). This project follows a classic **Model-View-Controller (MVC)** architecture.
 
----
+## 🚀 Live Deployment
+
+This project is successfully deployed and live\!
+
+  * **Live Link (Render):** **[https://resumebuilderproject.onrender.com/](https://resumebuilderproject.onrender.com/)**
+
+-----
 
 ## 📸 Features
 
@@ -91,8 +97,8 @@ This will create a `target/ResumeBuilder.war` file.
 
 ### 5. Access Application
 
-- **Dashboard:** http://localhost:8080/ResumeBuilder/dashboard.jsp
-- **Editor:** http://localhost:8080/ResumeBuilder/editResume.jsp
+- **Dashboard:** https://resumebuilderproject.onrender.com/
+- **Editor:** https://resumebuilderproject.onrender.com/editResume.jsp
 
 ---
 
@@ -206,5 +212,6 @@ ResumeBuilder/
 - Email: 23bcs13912@gmail.com
 
 ---
+
 
 **⭐ Star this repo if you found it helpful!**
