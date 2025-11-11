@@ -97,8 +97,8 @@ This will create a `target/ResumeBuilder.war` file.
 
 ### 5. Access Application
 
-- **Dashboard:** https://resumebuilderproject.onrender.com/
-- **Editor:** https://resumebuilderproject.onrender.com/editResume.jsp
+- **Dashboard:** http://localhost:8080/ResumeBuilder/dashboard.jsp
+- **Editor:** http://localhost:8080/ResumeBuilder/editResume.jsp
 
 ---
 
@@ -215,3 +215,4 @@ ResumeBuilder/
 
 
 **⭐ Star this repo if you found it helpful!**
+
